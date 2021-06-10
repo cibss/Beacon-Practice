@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beacon App</string>
+    <string name="btn_find_device">Find device</string>
+</resources>
